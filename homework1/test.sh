@@ -1,1 +1,1 @@
-sml calendar.sml calendar_tests.sml
+sml calendar.sml calendar_tests.sml | grep false
